@@ -1,4 +1,4 @@
-# Social-Media
+# Time Wasters on Social Media Analysis
 ![image](https://github.com/user-attachments/assets/f5efa8ec-0a62-4c0b-a7f9-dab2c555940f)
 
 ## Overview
