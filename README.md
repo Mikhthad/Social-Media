@@ -7,50 +7,95 @@ This project focuses on analyzing time-wasting behaviors on social media platfor
 The dataset consists of the following key features:
 
 UserID: Unique identifier assigned to each user.
+
 Age: The user's age.
+
 Gender: The user's gender (e.g., male, female, non-binary).
+
 Location: Geographic location of the user.
+
 Income: The user's income level.
+
 Debt: Amount of debt the user has.
+
 Owns Property: Indicates whether the user owns property.
+
 Profession: The user's occupation or job.
+
 Demographics: Statistical data about the user (e.g., age, gender, income).
+
 Platform: The platform the user is using (e.g., website, mobile app).
+
 Total Time Spent: The total time the user spends on the platform.
+
 Number of Sessions: The number of times the user has logged into the platform.
+
 Video ID: Unique identifier for a video.
+
 Video Category: The category or genre of the video.
+
 Video Length: Duration of the video.
+
 Engagement: User interaction with the video (e.g., likes, comments, shares).
+
 Importance Score: A score indicating how important the video is to the user.
+
 Time Spent On Video: The amount of time the user spends watching a video.
+
 Number of Videos Watched: The total number of videos watched by the user.
+
 Scroll Rate: The rate at which the user scrolls through content.
+
 Frequency: How often the user engages with the platform.
+
 Productivity Loss: The impact of platform usage on the user's productivity.
+
 Satisfaction: The user's satisfaction level with the platform or content.
+
 Watch Reason: The reason why the user is watching a video (e.g., entertainment, education).
+
 Device Type: The type of device the user is using (e.g., smartphone, tablet, desktop).
+
 OS: The operating system of the user's device (e.g., iOS, Android, Windows).
+
 Watch Time: The time of day when the user watches videos.
+
 Self Control: The user's ability to control their usage of the platform.
+
 Addiction Level: The user's level of dependency on the platform.
+
 Current Activity: What the user is doing while watching the video.
+
 Connection Type: The type of internet connection the user has (e.g., Wi-Fi, cellular).
+
 ## Information of the dataset
+
 Columns = 31
+
 Rows = 1000
+
 data types
+
 bool = 2
+
 integer = 16
+
 object = 13
+
 No null vaues
+
 Cleaned data
+
 ## Technologies Used
+
 Python
+
 Pandas for data manipulation
+
 Matplotlib and Seaborn for data visualization
+
 Jupyter Notebook for analysis and reporting.
+
 ## Key Analyses
 The analysis includes the following visualizations and insights:
 
